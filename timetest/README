@@ -1,0 +1,25 @@
+The overall goal is to handle PD-control on a not true-time OS
+
+To calculate the derivative of the error with a given accuracy
+
+On a not true time OS, I cannot count on the sampling frequency being 
+stable
+
+To calculate a derivative (the slope) I need to points. (time , value)
+
+The further these points are from each other
+	The bigger value difference may be estimated
+		The better accuracy of the measurement.
+	The "older" is the first point.. This is like a delay
+
+
+Looking at data from the actual closed loop system i can see oscillation 
+with an amplitude of 40 with a frequency of 3 Hz...  This gives a 
+maximal slope of 10/(1/36)  or 360[steps/sec]..  Handling frequencies of 
+3 Hz I would like to have a sampling system with fs~60 Hz  Ts= 16.7 
+msec.
+Slope and sampling rate gives  360/60  =  6 steps @ fs=60 Hz (poor 
+resolution but ok!)
+
+
+
