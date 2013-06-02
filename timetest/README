@@ -22,4 +22,17 @@ Slope and sampling rate gives  360/60  =  6 steps @ fs=60 Hz (poor
 resolution but ok!)
 
 
-
+Testing a system to create a steady sampling rate.
+	the program heartbeat prints the time each msec..
+	grex$ gcc heartbeat.c -o heartbeat
+	grex$ ./heartbeat >fil
+	^C
+	grex$ wc -l fil
+	    2804 fil  //2804 lines reflects 2804 msec
+	grex$ head -1 fil
+	secs :   453007,  nsecs   :  914193953
+	grex$ tail -2 fil
+	 secs :   453010,  nsecs   :  718510523
+	 secs :   453010,  nsecs grex
+	subtracting:  endtime - starttime = 10.718 - 7.914 = 2.804
+no missing samples....!!!.... 
