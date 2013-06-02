@@ -1,0 +1,62 @@
+It all comes down to standing in the directory that you want to be 
+"gitting"
+
+first do either
+   git clone git:kkmmhyhuiqwertyui
+ or
+   git init
+
+which will create or update/setup  a local directory for "gitting"
+
+other commands 
+	git remote add //   ????
+	git status //shows status
+
+---- example of  day to day work   ----
+
+grex$ git add .
+fatal: Not a git repository (or any parent up to mount parent )
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+grex$ cd control-quadcopter/
+grex$ git add .  //new files are "registered"
+grex$ git status
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#       modified:   timetest/README
+#       new file:   timetest/heartbeat
+#       new file:   timetest/heartbeat.c
+#
+grex$ git commit  
+//new files and changes are saved (updated) in local repository  in the .git directory.. version controll
+[master 8d036ca] fixed sampling rate in a non real time os(as fixed as possible) in timetest directory read README
+ Committer: Kaj <kaj@grex.org>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 67 insertions(+), 1 deletions(-)
+ create mode 100755 timetest/heartbeat
+ create mode 100644 timetest/heartbeat.c
+grex$ git push  
+//the remote repository is updated to the version of the local repository
+Password:
+Counting objects: 9, done.
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (6/6), 3.35 KiB, done.
+Total 6 (delta 2), reused 0 (delta 0)
+remote: Scanning pack: 100% (6/6), done.
+remote: Storing objects: 100% (6/6), done.
+remote: Processing commits: 100% (1/1), done.
+To https://normankaj@code.google.com/p/control-quadcopter/
+   e2f7450..8d036ca  master -> master
+
+
