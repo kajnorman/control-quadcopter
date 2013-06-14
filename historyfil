@@ -1,0 +1,10 @@
+  907  sudo ./atod 
+  908  ls
+  909  gcc atod.c gb_common.o gb_spi.o  -o atod
+  910  sudo ServoBlaster/PiBits/ServoBlaster/servod 
+  911  cd quadcopter/
+  912  ls
+  913  sudo ./controlloop 
+  914  gcc controlloop.c gb_common.o gb_spi.o  -o controlloop
+  915  history
+  916  history |tail >historyfil
