@@ -4,6 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <getopt.h>
+#include "steadysamplerate.c"
 
 
 // Set GPIO pins to the right mode
@@ -40,13 +41,25 @@ void setup_gpio()
 void print_usage() {
     printf("Usage: controlloop -v -c -s num -p Kd -d num -t num\n");
     printf("-v :verbose\n-c csv\n-s setpoint\n-p Proportional gain\n-d Differential gain\n-t added delay in msec\n");
+    printf ("These are the connections for the analogue to digital test:\n");
+    printf ("jumper connecting GP11 to SCLK\n");
+    printf ("jumper connecting GP10 to MOSI\n");
+    printf ("jumper connecting GP9 to MISO\n");
+    printf ("jumper connecting GP8 to CSnA\n");
+    printf ("Potentiometer connections:\n");
+    printf ("  (call 1 and 3 the ends of the resistor and 2 the wiper)\n");
+    printf ("  connect 3 to 3V3\n");
+    printf ("  connect 2 to AD%d\n", 1);
+    printf ("  connect 1 to GND\n");
+    printf ("connect GP4 to controlsignal for ESC(electronic speed control) for Brushless Motor\n");
 }
 
 int main(int argc, char *argv[])
 {
-    int r, v, s, i, pos, sp=0, pv, error, previous_error, Y, Kp=0, Kd=0, chan=1/*ad channel 1 on gertboard*/, added_delay = 0, verbose = 0, csv = 0 ;
+    int r, v, s, i, pos, sp=0, pv, error, previous_error, Y, Kp=0, Kd=0, chan=1/*ad channel 1 on gertboard*/, added_delay = 5, verbose = 0, csv = 0 ;
     int pv_array[32];
     int n,option;
+    struct timespec t1,t2;
 
         //Specifying the expected options
     //The options s,p,d,t expect numbers as argument
@@ -80,17 +93,6 @@ int main(int argc, char *argv[])
         return 1;
     }
     
-    printf ("These are the connections for the analogue to digital test:\n");
-    printf ("jumper connecting GP11 to SCLK\n");
-    printf ("jumper connecting GP10 to MOSI\n");
-    printf ("jumper connecting GP9 to MISO\n");
-    printf ("jumper connecting GP8 to CSnA\n");
-    printf ("Potentiometer connections:\n");
-    printf ("  (call 1 and 3 the ends of the resistor and 2 the wiper)\n");
-    printf ("  connect 3 to 3V3\n");
-    printf ("  connect 2 to AD%d\n", chan);
-    printf ("  connect 1 to GND\n");
-    printf ("connect GP4 to controlsignal for ESC(electronic speed control) for Brushless Motor\n");
     
     
     // Map the I/O sections
@@ -111,8 +113,19 @@ int main(int argc, char *argv[])
 
 
 
+//clock_gettime(CLOCK_REALTIME,&t1);
+gettimeofday(&t1,NULL);
+printtime(&t1);
+added_delay *=  1000;
+
+
     for ( ;; )
     {
+	do 
+//	  clock_gettime(CLOCK_REALTIME,&t2);
+	  gettimeofday(&t2,NULL);
+	while( diff_time(&t2,&t1)->tv_nsec < added_delay);
+	copytime(&t2,&t1);//copy t2 -> t1
         previous_error = error;
 
         //read adc into pv_array
@@ -145,6 +158,7 @@ int main(int argc, char *argv[])
         
         
         if (verbose){
+            printtime(&t2);
 	    printf("SP=%d,PV=%d,Y=%d,pos=%d        ",sp,pv,Y,pos);
             putchar(0x0D); // go to start of the line
 	}
@@ -153,9 +167,9 @@ int main(int argc, char *argv[])
 	}
         //      GPIO_SET0 = 0x001;
              GPIO_SET0 = 0x080;
-         short_wait();
+//         short_wait();
              GPIO_CLR0 = 0x080;
-        usleep(added_delay);  //usleep(100)   3kHz
+        //usleep(added_delay);  //usleep(100)   3kHz
         // fprintf(fp, "0=150\n");
     }
     // repeated read

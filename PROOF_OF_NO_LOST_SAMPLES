@@ -1,0 +1,33 @@
+CALCULATIONS THAT PROVES  THAT NO SAMPLES ARE MISSING 
+	THE NUMBER OF LINES IN THE FILE (THE NUMBER OF SAMPLES)
+	MATCH
+	THE TIME GIVEN DIVIDED BY THE TIME BETWEEN TWO SAMPLES (5000 USECS)
+
+^Cpi@raspberrypi ~/quadcopter/control-quadcopter $ sudo nice -20 ./controlloop -v >fil
+pi@raspberrypi ~/quadcopter/control-quadcopter $ head fil
+SP=0 KP=0 Kd=0
+secs : 1372760348,  usecs   :     14791
+ secs : 1372760348,  usecs   :     19791
+secs : 1372760348,  usecs   :     24791
+secs : 1372760348,  usecs   :     29791
+secs : 1372760348,  usecs   :     34791
+secs : 1372760348,  usecs   :     39791
+secs : 1372760348,  usecs   :     44791
+secs : 1372760348,  usecs   :     49791
+secs : 1372760348,  usecs   :     54791
+pi@raspberrypi ~/quadcopter/control-quadcopter $ tail fil
+secs : 1372760351,  usecs   :    290032
+secs : 1372760351,  usecs   :    295032
+secs : 1372760351,  usecs   :    300041
+secs : 1372760351,  usecs   :    305041
+secs : 1372760351,  usecs   :    310041
+secs : 1372760351,  usecs   :    315041
+secs : 1372760351,  usecs   :    320041
+secs : 1372760351,  usecs   :    325041
+secs : 1372760351,  usecs   :    330041
+pi@raspberrypi ~/quadcopter/control-quadcopter $ echo $(((51330041-48014791)/5000))
+663
+pi@raspberrypi ~/quadcopter/control-quadcopter $ wc -l fil
+665 fil
+
+

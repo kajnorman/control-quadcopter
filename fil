@@ -1,0 +1,666 @@
+SP=0 KP=0 Kd=0
+secs : 1372760348,  usecs   :     14791 
+ secs : 1372760348,  usecs   :     19791 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760348,  usecs   :     24791 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :     29791 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760348,  usecs   :     34791 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :     39791 
+ SP=0,PV=458,Y=0,pos=100        secs : 1372760348,  usecs   :     44791 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :     49791 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :     54791 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760348,  usecs   :     59791 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760348,  usecs   :     64791 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :     69791 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :     74791 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :     79791 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :     84791 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760348,  usecs   :     89791 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :     94791 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :     99791 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760348,  usecs   :    104791 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760348,  usecs   :    109791 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    114791 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    119791 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760348,  usecs   :    124791 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    129808 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760348,  usecs   :    134808 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    139808 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760348,  usecs   :    144808 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    149808 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    154808 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    159808 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    164808 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760348,  usecs   :    169808 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760348,  usecs   :    174808 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    179808 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    184808 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760348,  usecs   :    189808 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    194808 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    199808 
+ SP=0,PV=458,Y=0,pos=100        secs : 1372760348,  usecs   :    204808 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    209808 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    214808 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760348,  usecs   :    219808 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    224808 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    229808 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    234808 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760348,  usecs   :    239808 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    244808 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760348,  usecs   :    249808 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    254808 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760348,  usecs   :    259808 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760348,  usecs   :    264808 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    269808 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760348,  usecs   :    274808 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    279808 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760348,  usecs   :    284808 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760348,  usecs   :    289808 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760348,  usecs   :    294808 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    299808 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760348,  usecs   :    304808 
+ SP=0,PV=458,Y=0,pos=100        secs : 1372760348,  usecs   :    309808 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    314808 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    319808 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    324808 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    329808 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    334808 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760348,  usecs   :    339808 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    344808 
+ SP=0,PV=459,Y=0,pos=100        secs : 1372760348,  usecs   :    349808 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    354808 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    359808 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760348,  usecs   :    364808 
+ SP=0,PV=458,Y=0,pos=100        secs : 1372760348,  usecs   :    369809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    374809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    379809 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760348,  usecs   :    384809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    389809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    394809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    399809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    404809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    409809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    414809 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760348,  usecs   :    419809 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760348,  usecs   :    424809 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760348,  usecs   :    429809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    434809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    439809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760348,  usecs   :    444809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    449809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    454809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    459809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    464809 
+ SP=0,PV=449,Y=0,pos=100        secs : 1372760348,  usecs   :    469809 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760348,  usecs   :    474809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    479809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    484809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    489809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    494809 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760348,  usecs   :    499809 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760348,  usecs   :    504809 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760348,  usecs   :    509809 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760348,  usecs   :    514809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760348,  usecs   :    519809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    524809 
+ SP=0,PV=448,Y=0,pos=100        secs : 1372760348,  usecs   :    529809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760348,  usecs   :    534809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    539809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    544809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    549809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    554809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    559809 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760348,  usecs   :    564809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    569809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    574809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    579809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760348,  usecs   :    584809 
+ SP=0,PV=449,Y=0,pos=100        secs : 1372760348,  usecs   :    589809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    594809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    599809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    604809 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760348,  usecs   :    609809 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760348,  usecs   :    614809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    619809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760348,  usecs   :    624809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    629809 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760348,  usecs   :    634809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    639809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    644809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    649809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    654809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    659809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    664809 
+ SP=0,PV=458,Y=0,pos=100        secs : 1372760348,  usecs   :    669809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    674809 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760348,  usecs   :    679809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    684809 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760348,  usecs   :    689809 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760348,  usecs   :    694809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    699809 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760348,  usecs   :    704809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760348,  usecs   :    709809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    714809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    719809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    724809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    729809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760348,  usecs   :    734809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    739809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760348,  usecs   :    744809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760348,  usecs   :    749809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    754809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    759809 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760348,  usecs   :    764809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    769809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    774809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    779809 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760348,  usecs   :    784809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    789809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760348,  usecs   :    794809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    799809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760348,  usecs   :    804809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760348,  usecs   :    809809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    814809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760348,  usecs   :    819809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760348,  usecs   :    824809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    829809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    834809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    839809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    844809 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760348,  usecs   :    849809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760348,  usecs   :    854809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    859809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760348,  usecs   :    864809 
+ SP=0,PV=458,Y=0,pos=100        secs : 1372760348,  usecs   :    869809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    874809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    879809 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760348,  usecs   :    884809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    889809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    894809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    899809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    904809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    909809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    914809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    919809 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760348,  usecs   :    924809 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760348,  usecs   :    929809 
+ SP=0,PV=449,Y=0,pos=100        secs : 1372760348,  usecs   :    934809 
+ SP=0,PV=449,Y=0,pos=100        secs : 1372760348,  usecs   :    939809 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760348,  usecs   :    944809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    949809 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760348,  usecs   :    954809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    959809 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760348,  usecs   :    964809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    969809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    974809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    979809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760348,  usecs   :    984809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760348,  usecs   :    989809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    994809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760348,  usecs   :    999809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :      4809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :      9809 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760349,  usecs   :     14809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :     19809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :     24809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :     29809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :     34809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :     39809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :     44809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :     49809 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760349,  usecs   :     54809 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760349,  usecs   :     59809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :     64809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :     69809 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760349,  usecs   :     74809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :     79809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :     84809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :     89809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :     94809 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760349,  usecs   :     99809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760349,  usecs   :    104809 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760349,  usecs   :    109809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760349,  usecs   :    114809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    119809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    124809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    129809 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760349,  usecs   :    134809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    139809 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760349,  usecs   :    144809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    149809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    154809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    159809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    164809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760349,  usecs   :    169809 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760349,  usecs   :    174809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    179809 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760349,  usecs   :    184809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760349,  usecs   :    189809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760349,  usecs   :    194809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    199809 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760349,  usecs   :    204809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    209809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760349,  usecs   :    214809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760349,  usecs   :    219809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    224809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760349,  usecs   :    229809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    234809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    239809 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760349,  usecs   :    244809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    249809 
+ SP=0,PV=449,Y=0,pos=100        secs : 1372760349,  usecs   :    254809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760349,  usecs   :    259809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760349,  usecs   :    264809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    269809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    274809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    279809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    284809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    289809 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760349,  usecs   :    294809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    299809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    304809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    309809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    314809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    319809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760349,  usecs   :    324809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    329809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    334809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    339809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    344809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    349809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    354809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    359809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    364809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    369809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    374809 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760349,  usecs   :    379809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    384809 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760349,  usecs   :    389809 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760349,  usecs   :    394809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760349,  usecs   :    399809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    404809 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760349,  usecs   :    409809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    414809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    419809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    424809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    429809 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760349,  usecs   :    434809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    439809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    444809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    449809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    454809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760349,  usecs   :    459809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    464809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    469809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    474809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    479809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    484809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760349,  usecs   :    489809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    494809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    499809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    504809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760349,  usecs   :    509809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    514809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    519809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    524809 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760349,  usecs   :    529809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    534809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    539809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    544809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    549809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760349,  usecs   :    554809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    559809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    564809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760349,  usecs   :    569809 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760349,  usecs   :    574809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760349,  usecs   :    579809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    584809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    589809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    594809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760349,  usecs   :    599809 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760349,  usecs   :    604809 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760349,  usecs   :    609809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    614809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    619809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    624809 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760349,  usecs   :    629809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    634809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    639809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    644809 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760349,  usecs   :    649809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760349,  usecs   :    654809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    659809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    664809 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760349,  usecs   :    669809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    674809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    679809 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    684809 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    689809 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    694809 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760349,  usecs   :    699809 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760349,  usecs   :    704810 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    709810 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    714810 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760349,  usecs   :    719810 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    724810 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    729810 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    734810 
+ SP=0,PV=448,Y=0,pos=100        secs : 1372760349,  usecs   :    739810 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760349,  usecs   :    744810 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760349,  usecs   :    749810 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760349,  usecs   :    754810 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760349,  usecs   :    759810 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    764810 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760349,  usecs   :    769810 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760349,  usecs   :    774810 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    779810 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    784810 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    789810 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    794810 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    799810 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760349,  usecs   :    804810 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760349,  usecs   :    809810 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760349,  usecs   :    814810 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760349,  usecs   :    819810 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760349,  usecs   :    824810 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760349,  usecs   :    829810 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760349,  usecs   :    834810 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    839810 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    844810 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    849810 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    854810 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    859810 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    864810 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    869810 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    874810 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760349,  usecs   :    879810 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760349,  usecs   :    884810 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760349,  usecs   :    889810 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760349,  usecs   :    894810 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760349,  usecs   :    899810 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    904810 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760349,  usecs   :    909810 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760349,  usecs   :    914810 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760349,  usecs   :    919810 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760349,  usecs   :    924810 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760349,  usecs   :    929810 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760349,  usecs   :    934810 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760349,  usecs   :    939810 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    944810 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    949810 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    954810 
+ SP=0,PV=449,Y=0,pos=100        secs : 1372760349,  usecs   :    959810 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    964810 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760349,  usecs   :    969810 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760349,  usecs   :    974810 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760349,  usecs   :    979810 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760349,  usecs   :    984810 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760349,  usecs   :    989810 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760349,  usecs   :    994810 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760349,  usecs   :    999810 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760350,  usecs   :      4810 
+ SP=0,PV=448,Y=0,pos=100        secs : 1372760350,  usecs   :      9810 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760350,  usecs   :     14810 
+ SP=0,PV=458,Y=0,pos=100        secs : 1372760350,  usecs   :     19810 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760350,  usecs   :     24810 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760350,  usecs   :     29810 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760350,  usecs   :     34810 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760350,  usecs   :     39810 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760350,  usecs   :     44810 
+ SP=0,PV=449,Y=0,pos=100        secs : 1372760350,  usecs   :     49810 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760350,  usecs   :     54810 
+ SP=0,PV=448,Y=0,pos=100        secs : 1372760350,  usecs   :     59810 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760350,  usecs   :     64810 
+ SP=0,PV=461,Y=0,pos=100        secs : 1372760350,  usecs   :     69810 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760350,  usecs   :     74810 
+ SP=0,PV=458,Y=0,pos=100        secs : 1372760350,  usecs   :     79810 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760350,  usecs   :     84810 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760350,  usecs   :     89810 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760350,  usecs   :     94810 
+ SP=0,PV=449,Y=0,pos=100        secs : 1372760350,  usecs   :     99810 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760350,  usecs   :    104810 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760350,  usecs   :    109810 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760350,  usecs   :    114810 
+ SP=0,PV=460,Y=0,pos=100        secs : 1372760350,  usecs   :    119810 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760350,  usecs   :    124810 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760350,  usecs   :    129810 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760350,  usecs   :    134835 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760350,  usecs   :    139835 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760350,  usecs   :    144835 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760350,  usecs   :    149835 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760350,  usecs   :    154835 
+ SP=0,PV=446,Y=0,pos=100        secs : 1372760350,  usecs   :    159835 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760350,  usecs   :    164835 
+ SP=0,PV=449,Y=0,pos=100        secs : 1372760350,  usecs   :    169835 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760350,  usecs   :    174835 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760350,  usecs   :    179835 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760350,  usecs   :    184835 
+ SP=0,PV=459,Y=0,pos=100        secs : 1372760350,  usecs   :    189835 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760350,  usecs   :    194835 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760350,  usecs   :    199835 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760350,  usecs   :    204835 
+ SP=0,PV=444,Y=0,pos=100        secs : 1372760350,  usecs   :    209835 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760350,  usecs   :    214835 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760350,  usecs   :    219835 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760350,  usecs   :    224835 
+ SP=0,PV=460,Y=0,pos=100        secs : 1372760350,  usecs   :    229835 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760350,  usecs   :    234835 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760350,  usecs   :    239835 
+ SP=0,PV=458,Y=0,pos=100        secs : 1372760350,  usecs   :    244835 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760350,  usecs   :    249835 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760350,  usecs   :    254835 
+ SP=0,PV=449,Y=0,pos=100        secs : 1372760350,  usecs   :    259835 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760350,  usecs   :    264835 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760350,  usecs   :    269835 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760350,  usecs   :    274835 
+ SP=0,PV=459,Y=0,pos=100        secs : 1372760350,  usecs   :    279835 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760350,  usecs   :    284835 
+ SP=0,PV=458,Y=0,pos=100        secs : 1372760350,  usecs   :    289835 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760350,  usecs   :    294835 
+ SP=0,PV=448,Y=0,pos=100        secs : 1372760350,  usecs   :    299838 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760350,  usecs   :    304838 
+ SP=0,PV=458,Y=0,pos=100        secs : 1372760350,  usecs   :    309838 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760350,  usecs   :    314838 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760350,  usecs   :    319838 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760350,  usecs   :    324838 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760350,  usecs   :    329838 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760350,  usecs   :    334838 
+ SP=0,PV=445,Y=0,pos=100        secs : 1372760350,  usecs   :    339847 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760350,  usecs   :    344847 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760350,  usecs   :    349847 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760350,  usecs   :    354847 
+ SP=0,PV=461,Y=0,pos=100        secs : 1372760350,  usecs   :    359847 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760350,  usecs   :    364847 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760350,  usecs   :    369847 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760350,  usecs   :    374847 
+ SP=0,PV=449,Y=0,pos=100        secs : 1372760350,  usecs   :    379858 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760350,  usecs   :    384858 
+ SP=0,PV=448,Y=0,pos=100        secs : 1372760350,  usecs   :    389858 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760350,  usecs   :    394858 
+ SP=0,PV=460,Y=0,pos=100        secs : 1372760350,  usecs   :    399858 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760350,  usecs   :    404858 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760350,  usecs   :    409858 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760350,  usecs   :    414858 
+ SP=0,PV=449,Y=0,pos=100        secs : 1372760350,  usecs   :    419861 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760350,  usecs   :    424861 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760350,  usecs   :    429861 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760350,  usecs   :    434861 
+ SP=0,PV=460,Y=0,pos=100        secs : 1372760350,  usecs   :    439861 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760350,  usecs   :    444861 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760350,  usecs   :    449861 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760350,  usecs   :    454861 
+ SP=0,PV=445,Y=0,pos=100        secs : 1372760350,  usecs   :    459870 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760350,  usecs   :    464870 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760350,  usecs   :    469870 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760350,  usecs   :    474870 
+ SP=0,PV=461,Y=0,pos=100        secs : 1372760350,  usecs   :    479870 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760350,  usecs   :    484870 
+ SP=0,PV=460,Y=0,pos=100        secs : 1372760350,  usecs   :    489870 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760350,  usecs   :    494870 
+ SP=0,PV=449,Y=0,pos=100        secs : 1372760350,  usecs   :    499879 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760350,  usecs   :    504879 
+ SP=0,PV=447,Y=0,pos=100        secs : 1372760350,  usecs   :    509879 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760350,  usecs   :    514879 
+ SP=0,PV=447,Y=0,pos=100        secs : 1372760350,  usecs   :    519879 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760350,  usecs   :    524879 
+ SP=0,PV=458,Y=0,pos=100        secs : 1372760350,  usecs   :    529879 
+ SP=0,PV=448,Y=0,pos=100        secs : 1372760350,  usecs   :    534879 
+ SP=0,PV=458,Y=0,pos=100        secs : 1372760350,  usecs   :    539887 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760350,  usecs   :    544887 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760350,  usecs   :    549887 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760350,  usecs   :    554887 
+ SP=0,PV=449,Y=0,pos=100        secs : 1372760350,  usecs   :    559887 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760350,  usecs   :    564887 
+ SP=0,PV=448,Y=0,pos=100        secs : 1372760350,  usecs   :    569887 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760350,  usecs   :    574887 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760350,  usecs   :    579894 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760350,  usecs   :    584894 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760350,  usecs   :    589894 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760350,  usecs   :    594894 
+ SP=0,PV=459,Y=0,pos=100        secs : 1372760350,  usecs   :    599894 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760350,  usecs   :    604894 
+ SP=0,PV=459,Y=0,pos=100        secs : 1372760350,  usecs   :    609894 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760350,  usecs   :    614894 
+ SP=0,PV=448,Y=0,pos=100        secs : 1372760350,  usecs   :    619901 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760350,  usecs   :    624901 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760350,  usecs   :    629901 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760350,  usecs   :    634901 
+ SP=0,PV=446,Y=0,pos=100        secs : 1372760350,  usecs   :    639901 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760350,  usecs   :    644901 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760350,  usecs   :    649901 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760350,  usecs   :    654901 
+ SP=0,PV=459,Y=0,pos=100        secs : 1372760350,  usecs   :    659910 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760350,  usecs   :    664910 
+ SP=0,PV=459,Y=0,pos=100        secs : 1372760350,  usecs   :    669910 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760350,  usecs   :    674910 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760350,  usecs   :    679910 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760350,  usecs   :    684910 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760350,  usecs   :    689910 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760350,  usecs   :    694910 
+ SP=0,PV=449,Y=0,pos=100        secs : 1372760350,  usecs   :    699918 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760350,  usecs   :    704918 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760350,  usecs   :    709918 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760350,  usecs   :    714918 
+ SP=0,PV=459,Y=0,pos=100        secs : 1372760350,  usecs   :    719918 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760350,  usecs   :    724918 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760350,  usecs   :    729918 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760350,  usecs   :    734918 
+ SP=0,PV=447,Y=0,pos=100        secs : 1372760350,  usecs   :    739927 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760350,  usecs   :    744927 
+ SP=0,PV=448,Y=0,pos=100        secs : 1372760350,  usecs   :    749927 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760350,  usecs   :    754927 
+ SP=0,PV=449,Y=0,pos=100        secs : 1372760350,  usecs   :    759927 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760350,  usecs   :    764927 
+ SP=0,PV=462,Y=0,pos=100        secs : 1372760350,  usecs   :    769927 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760350,  usecs   :    774927 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760350,  usecs   :    779936 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760350,  usecs   :    784936 
+ SP=0,PV=449,Y=0,pos=100        secs : 1372760350,  usecs   :    789936 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760350,  usecs   :    794936 
+ SP=0,PV=449,Y=0,pos=100        secs : 1372760350,  usecs   :    799936 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760350,  usecs   :    804936 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760350,  usecs   :    809936 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760350,  usecs   :    814936 
+ SP=0,PV=460,Y=0,pos=100        secs : 1372760350,  usecs   :    819944 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760350,  usecs   :    824944 
+ SP=0,PV=461,Y=0,pos=100        secs : 1372760350,  usecs   :    829944 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760350,  usecs   :    834944 
+ SP=0,PV=449,Y=0,pos=100        secs : 1372760350,  usecs   :    839944 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760350,  usecs   :    844944 
+ SP=0,PV=446,Y=0,pos=100        secs : 1372760350,  usecs   :    849944 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760350,  usecs   :    854944 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760350,  usecs   :    859951 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760350,  usecs   :    864951 
+ SP=0,PV=449,Y=0,pos=100        secs : 1372760350,  usecs   :    869951 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760350,  usecs   :    874951 
+ SP=0,PV=458,Y=0,pos=100        secs : 1372760350,  usecs   :    879951 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760350,  usecs   :    884951 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760350,  usecs   :    889951 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760350,  usecs   :    894951 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760350,  usecs   :    899958 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760350,  usecs   :    904958 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760350,  usecs   :    909958 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760350,  usecs   :    914958 
+ SP=0,PV=446,Y=0,pos=100        secs : 1372760350,  usecs   :    919958 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760350,  usecs   :    924958 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760350,  usecs   :    929958 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760350,  usecs   :    934958 
+ SP=0,PV=460,Y=0,pos=100        secs : 1372760350,  usecs   :    939969 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760350,  usecs   :    944969 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760350,  usecs   :    949969 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760350,  usecs   :    954969 
+ SP=0,PV=443,Y=0,pos=100        secs : 1372760350,  usecs   :    959969 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760350,  usecs   :    964969 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760350,  usecs   :    969969 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760350,  usecs   :    974969 
+ SP=0,PV=460,Y=0,pos=100        secs : 1372760350,  usecs   :    979979 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760350,  usecs   :    984979 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760350,  usecs   :    989979 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760350,  usecs   :    994979 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760350,  usecs   :    999979 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760351,  usecs   :      4979 
+ SP=0,PV=449,Y=0,pos=100        secs : 1372760351,  usecs   :      9979 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760351,  usecs   :     14979 
+ SP=0,PV=458,Y=0,pos=100        secs : 1372760351,  usecs   :     19983 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760351,  usecs   :     24983 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760351,  usecs   :     29983 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760351,  usecs   :     34983 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760351,  usecs   :     39983 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760351,  usecs   :     44983 
+ SP=0,PV=458,Y=0,pos=100        secs : 1372760351,  usecs   :     49983 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760351,  usecs   :     54983 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760351,  usecs   :     59992 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760351,  usecs   :     64993 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760351,  usecs   :     69993 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760351,  usecs   :     74993 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760351,  usecs   :     79993 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760351,  usecs   :     84993 
+ SP=0,PV=460,Y=0,pos=100        secs : 1372760351,  usecs   :     89993 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760351,  usecs   :     94993 
+ SP=0,PV=459,Y=0,pos=100        secs : 1372760351,  usecs   :     99999 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760351,  usecs   :    104999 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760351,  usecs   :    109999 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760351,  usecs   :    114999 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760351,  usecs   :    119999 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760351,  usecs   :    124999 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760351,  usecs   :    129999 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760351,  usecs   :    134999 
+ SP=0,PV=449,Y=0,pos=100        secs : 1372760351,  usecs   :    140010 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760351,  usecs   :    145010 
+ SP=0,PV=458,Y=0,pos=100        secs : 1372760351,  usecs   :    150010 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760351,  usecs   :    155010 
+ SP=0,PV=459,Y=0,pos=100        secs : 1372760351,  usecs   :    160010 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760351,  usecs   :    165010 
+ SP=0,PV=448,Y=0,pos=100        secs : 1372760351,  usecs   :    170010 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760351,  usecs   :    175010 
+ SP=0,PV=446,Y=0,pos=100        secs : 1372760351,  usecs   :    180017 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760351,  usecs   :    185017 
+ SP=0,PV=445,Y=0,pos=100        secs : 1372760351,  usecs   :    190017 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760351,  usecs   :    195017 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760351,  usecs   :    200017 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760351,  usecs   :    205017 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760351,  usecs   :    210017 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760351,  usecs   :    215017 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760351,  usecs   :    220025 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760351,  usecs   :    225025 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760351,  usecs   :    230025 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760351,  usecs   :    235025 
+ SP=0,PV=448,Y=0,pos=100        secs : 1372760351,  usecs   :    240025 
+ SP=0,PV=452,Y=0,pos=100        secs : 1372760351,  usecs   :    245025 
+ SP=0,PV=449,Y=0,pos=100        secs : 1372760351,  usecs   :    250025 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760351,  usecs   :    255025 
+ SP=0,PV=456,Y=0,pos=100        secs : 1372760351,  usecs   :    260032 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760351,  usecs   :    265032 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760351,  usecs   :    270032 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760351,  usecs   :    275032 
+ SP=0,PV=461,Y=0,pos=100        secs : 1372760351,  usecs   :    280032 
+ SP=0,PV=453,Y=0,pos=100        secs : 1372760351,  usecs   :    285032 
+ SP=0,PV=451,Y=0,pos=100        secs : 1372760351,  usecs   :    290032 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760351,  usecs   :    295032 
+ SP=0,PV=448,Y=0,pos=100        secs : 1372760351,  usecs   :    300041 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760351,  usecs   :    305041 
+ SP=0,PV=446,Y=0,pos=100        secs : 1372760351,  usecs   :    310041 
+ SP=0,PV=455,Y=0,pos=100        secs : 1372760351,  usecs   :    315041 
+ SP=0,PV=457,Y=0,pos=100        secs : 1372760351,  usecs   :    320041 
+ SP=0,PV=450,Y=0,pos=100        secs : 1372760351,  usecs   :    325041 
+ SP=0,PV=459,Y=0,pos=100        secs : 1372760351,  usecs   :    330041 
+ SP=0,PV=454,Y=0,pos=100        secs : 1372760351,  usecs   :    

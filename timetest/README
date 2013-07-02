@@ -24,6 +24,8 @@ resolution but ok!)
 
 Testing a system to create a steady sampling rate.
 	the program heartbeat prints the time each msec..
+	
+	TESTING on  GREX !!!!!!
 	grex$ gcc heartbeat.c -o heartbeat
 	grex$ ./heartbeat >fil
 	^C
@@ -36,3 +38,32 @@ Testing a system to create a steady sampling rate.
 	 secs :   453010,  nsecs grex
 	subtracting:  endtime - starttime = 10.718 - 7.914 = 2.804
 no missing samples....!!!.... 
+
+
+Testing on thr raspbery
+	pi@raspberrypi ~/quadcopter/control-quadcopter/timetest $ ./heartbeat > fil
+	^C
+	pi@raspberrypi ~/quadcopter/control-quadcopter/timetest $ wc -l fil
+	3817 fil
+	pi@raspberrypi ~/quadcopter/control-quadcopter/timetest $ head -1 fil
+	secs : 1371199470,  nsecs   :  208753846
+	pi@raspberrypi ~/quadcopter/control-quadcopter/timetest $ tail -2 fil
+	 secs : 1371199474,  nsecs   :  30178817
+	 secs : 1371199474,  nsecs   :  31178896 pi@raspberrypi ~/quadcopter/control-quadcopter/timetest $ echo $((4301-208))
+	4093
+	Missing  4093 - 3817 = 280!!! 7 %...
+
+
+Test 2 on raspberry
+	pi@raspberrypi ~/quadcopter/control-quadcopter/timetest $ nice -20 ./heartbeat > fil
+	^C
+	pi@raspberrypi ~/quadcopter/control-quadcopter/timetest $ wc -l fil
+	3436 fil
+	pi@raspberrypi ~/quadcopter/control-quadcopter/timetest $ head -1 fil
+	secs : 1371200110,  nsecs   :  452698509
+	pi@raspberrypi ~/quadcopter/control-quadcopter/timetest $ tail -2 fil
+	 secs : 1371200113,  nsecs   :  888397759
+	 secs : pi@raspberrypi ~/quadcopter/control-quadcopter/timetest $
+	pi@raspberrypi ~/quadcopter/control-quadcopter/timetest $ echo $((3888-452))
+	3436
+	running on hi priority (nice -20 ./heratbeat)  NO MISSING samples !!!!
