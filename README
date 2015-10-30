@@ -4,3 +4,49 @@ The project is in an unknown state.
 The reason is that the author doesn't know how to use GIT...
 
 
+Rebuilding using 
+	git
+	   37  git clone https://github.com/richardghirst/PiBits.git
+	   38  git clone  https://github.com/kajnorman/control-quadcopter.git
+
+
+cd into control-quadcopter and
+running ./controlloop -h gives :
+	pi@raspberrypi ~/control-quadcopter $ sudo ./controlloop -h
+	./controlloop: invalid option -- 'h'
+	Usage: controlloop -v -c -s num -p Kd -d num -t num
+	-v :verbose
+	-c csv
+	-s setpoint
+	-p Proportional gain
+	-d Differential gain
+	-t added delay in msec
+	These are the connections for the analogue to digital test:
+	jumper connecting GP11 to SCLK
+	jumper connecting GP10 to MOSI
+	jumper connecting GP9 to MISO
+	jumper connecting GP8 to CSnA
+	Potentiometer connections:
+	  (call 1 and 3 the ends of the resistor and 2 the wiper)
+	  connect 3 to 3V3
+	  connect 2 to AD1
+	  connect 1 to GND
+	connect GP4 to controlsignal for ESC(electronic speed control) for Brushless Motor
+	pi@raspberrypi ~/control-quadcopter $
+
+
+
+Start the servodeamon 
+	pi@raspberrypi ~/PiBits/ServoBlaster/user $ sudo ./servod
+
+
+
+Maybe the servo/servodeamon needs initialisation
+pi@raspberrypi ~/control-quadcopter sudo  echo 0=50 > /dev/servoblaster
+pi@raspberrypi ~/control-quadcopter $ sudo  echo 0=70 > /dev/servoblaster
+pi@raspberrypi ~/control-quadcopter $ sudo  echo 0=50 > /dev/servoblaster
+
+
+This will run the controllop with useable parameters
+	pi@raspberrypi ~/control-quadcopter $ sudo ./controlloop  -s 600 -p 1 -d 20
+

@@ -1,3 +1,4 @@
+
 #include "gb_common.h"
 #include "gb_spi.h"
 #include <unistd.h>
@@ -7,27 +8,6 @@
 #include "steadysamplerate.c"
 
 
-// Set GPIO pins to the right mode
-// DEMO GPIO mapping:
-//         Function            Mode
-// GPIO0=  unused
-// GPIO1=  unused
-// GPIO4=  pwm controll signal for Brushless motord
-// GPIO7=  unused
-// GPIO8=  SPI chip select A   Alt. 0
-// GPIO9=  SPI MISO            Alt. 0
-// GPIO10= SPI MOSI            Alt. 0
-// GPIO11= SPI CLK             Alt. 0
-// GPIO14= unused
-// GPIO15= unused
-// GPIO17= unused
-// GPIO18= unused
-// GPIO21= unused
-// GPIO22= unused
-// GPIO23= unused
-// GPIO24= unused
-// GPIO25= unused
-//
 
 void setup_gpio()
 {
@@ -56,18 +36,20 @@ void print_usage() {
 
 int main(int argc, char *argv[])
 {
-    int r, v, s, i, pos, sp=0, pv, error, previous_error, Y, Kp=0, Kd=0, chan=1/*ad channel 1 on gertboard*/, added_delay = 5, verbose = 0, csv = 0 ;
+    int off,r, v, s, i, pos, sp=0, pv, error, previous_error, integralpart = 0, Y, Kp=0, Kd=0, Ki=0, chan=1/*ad channel 1 on gertboard*/, added_delay = 5, verbose = 0, csv = 0 ;
     int pv_array[32];
     int n,option;
     struct timespec t1,t2;
 
         //Specifying the expected options
     //The options s,p,d,t expect numbers as argument
-    while ((option = getopt(argc, argv,"vcs:p:d:t:")) != -1) {
+    while ((option = getopt(argc, argv,"ovci:s:p:d:t:")) != -1) {
         switch (option) {
              case 'v' : verbose = 1;
                  break;
              case 'c' : csv = 1;
+                 break;
+             case 'o' : off = 1;
                  break;
              case 's' : sp = atoi(optarg); 
                  break;
@@ -76,6 +58,8 @@ int main(int argc, char *argv[])
              case 'd' : Kd = atoi(optarg);
                  break;
              case 't' : added_delay = atoi(optarg);
+                 break;
+             case 'i' : Ki = atoi(optarg);
                  break;
              default: print_usage(); 
                  exit(EXIT_FAILURE);
@@ -92,6 +76,9 @@ int main(int argc, char *argv[])
         printf("Error opening file\n");
         return 1;
     }
+
+
+
     
     
     
@@ -105,6 +92,14 @@ int main(int argc, char *argv[])
     setup_spi();
     
     
+
+    if (off == 1){
+	 printf("OOOFFFFF\n");
+        fprintf(fp, "0=%d\n",50);
+	fflush(fp);        
+	exit(0);
+	}
+
     printf("SP=%d KP=%d Kd=%d\n",sp,Kp,Kd);
 
         if (csv){
@@ -128,23 +123,12 @@ added_delay *=  1000;
 	copytime(&t2,&t1);//copy t2 -> t1
         previous_error = error;
 
-        //read adc into pv_array
-//        for ( n=0;n<32;n++ )
-//        {
-//            pv_array[n] = read_adc(chan);
-//        }
-
-	//calculating moving average pv        
-  //      pv = 0;
-    //    for ( n=0;n<32;n++ )
-      //  {
- //           pv += pv_array[n];
-   //     }
         pv = read_adc(chan); //pv >> 5;
 
         error = sp - pv;
-	error = error>>4;
-        Y  =  error * Kp  + (error - previous_error) * Kd ;
+	integralpart = integralpart + (error>>6);
+        Y  =  (error * Kp  + (error - previous_error) * Kd + Ki * integralpart);
+	Y = Y >> 2;
         if ( Y>1023 )
         {
             Y = 1023;
@@ -153,9 +137,9 @@ added_delay *=  1000;
         {
             Y = 0;
         }
-        pos = 100 + Y/10;
+        pos = 50 + Y/10;
         fprintf(fp, "0=%d\n",pos);
-        
+	fflush(fp);        
         
         if (verbose){
             printtime(&t2);
@@ -167,12 +151,8 @@ added_delay *=  1000;
 	}
         //      GPIO_SET0 = 0x001;
              GPIO_SET0 = 0x080;
-//         short_wait();
              GPIO_CLR0 = 0x080;
-        //usleep(added_delay);  //usleep(100)   3kHz
-        // fprintf(fp, "0=150\n");
     }
-    // repeated read
     
     
     fprintf(fp, "0=0\n");

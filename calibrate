@@ -1,0 +1,6 @@
+echo Callibration
+sudo  echo 0=200 > /dev/servoblaster
+sleep 1
+sudo  echo 0=50 > /dev/servoblaster
+sleep 1
+
